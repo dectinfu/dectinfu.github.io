@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dectinfu.github.io/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/app/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/assets/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/css/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/data/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/includes/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/item/sitemap.html.gz
+Sitemap: https://dectinfu.github.io/src/sitemap.html.gz
