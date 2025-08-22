@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: https://home.gumma.pl/sitemap-index.xml
